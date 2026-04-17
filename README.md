@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sandeep H N</h1>
-<h3 align="center">A passionate frontend developer, Artificial Intelligence, Machine Learning and Cyber Security from India</h3>
+<h3 align="center">A passionate Python, Artificial Intelligence, DevOps and Cyber Security from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hnsandeep&label=Profile%20views&color=0e75b6&style=flat" alt="hnsandeep" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hnsandeep" alt="hnsandeep" /></a> </p>
 
-- 🔭 I’m currently working on **My AI and Web Development**
+- 🔭 I’m currently working on **DevOps AI and Theft Control project**
 
-- 🌱 I’m currently learning **Ethical hacking in Cyber Security Domain**
+- 🌱 I’m currently learning **DevOps and Cyber Security Domain**
 
 - 📫 How to reach me **hnsandeep009@gmail.com**
 
