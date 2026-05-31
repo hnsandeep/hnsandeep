@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DevOps AI and Theft Control project**
 
-- 🌱 I’m currently learning **DevOps and Cyber Security Domain**
+- 🌱 I’m currently learning **DevOps, AIML and Cyber Security Domain**
 
 - 📫 How to reach me **hnsandeep009@gmail.com**
 
